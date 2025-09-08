@@ -3,6 +3,8 @@
 This repository contains implementations of a Letter Frequency Analyzer using Hadoop MapReduce and Spark.
 Please note that this project was carried out as a University Course project.
 
+Project group members: Tsegay Gebrelibanos, Gabriele Giudici (ga83b), Gabriele Billi Ciani (gabrielebilliciani).
+
 ## Repository Structure
 
 - `letter_frequency in Sparck.py`: Implementation of the Letter Frequency Analyzer using PySpark.
